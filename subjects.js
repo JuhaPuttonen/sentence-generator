@@ -1,7 +1,12 @@
 let subjects = [
   'programmers',
-  'developers',
-  'software developers'
+  'software developers',
+  'coders',
+  'instructors',
+  'companies',
+  'teams',
+  'organizations',
+  'mentors'
 ];
 
 module.exports = subjects;

@@ -4,7 +4,14 @@ let adjectives = [
   'seasoned',
   'experienced',
   'inexperienced',
-  'talented'
+  'talented',
+  'some',
+  'most',
+  'few',
+  'the best',
+  'the worst kind of',
+  'successful',
+  'unsuccessful'
 ];
 
 module.exports = adjectives;
