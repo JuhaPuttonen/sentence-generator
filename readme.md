@@ -16,8 +16,9 @@ This program is written in Javascript.
 
 ## Setup
 
-To run the program and get a generated sentence, use node:
+To run the program and get a generated sentence, use node. Example command and output:
 
 ``` sh
 $ node main.js
+Most coders are concerned about scope pollution.
 ```
